@@ -1,0 +1,12 @@
+.sample{
+    background-color: antiquewhite;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    text-align: center
+}
+
+li{
+    list-style: none;
+    text-align: left;
+}
